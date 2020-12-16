@@ -58,6 +58,7 @@ body
 {
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .pizza__heading
@@ -84,6 +85,11 @@ body
 .pizza__tag--2
 {
     background-color: #67b26f;
+}
+
+.pizza__description
+{
+    font-size: 15px;
 }
 
 .pizza__price
